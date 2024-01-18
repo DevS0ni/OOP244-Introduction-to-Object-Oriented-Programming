@@ -3,7 +3,7 @@
 * Version 1.1, corrections during the overview session
 * Version 1.2, Corrected the name TourPassenger to TourTicket.
 
-## Workshop Online Overview Session. (Monday Oct 03 8:55 - 9:45)
+## Workshop Online Overview Session.
 The overview session will go through the workshop, explaining the steps and answering questions you might have.
 
 The session will be online on BigBlueButton. Click on the link below 5 minutes before the session begins to join the session. 
