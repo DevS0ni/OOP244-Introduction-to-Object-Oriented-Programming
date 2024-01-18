@@ -28,20 +28,6 @@ This project will be done in 5 milestones and each milestone will have its due d
 
 > To make the final submission of the project easier and to make it possible to partially submit a project we have divided the submission of milestone 5 into six small ones. Each submission is worth 10% of the project mark. Your project will be marked only if you have all four milestones and at least have one of the 6 six submissions of milestone 5. 
 
-|Milestone 5<br/> Divided into<br/>Six submission| Mark | Due date | Submission Policy|
-|:------|:---:|:---:|-------|
-| [m51 (exit)](#ms51-submission-test) | 10% | Dec 9th| 10% penalty for each day being late up to 5 days|
-| [m52 (Load and List)](#ms52-submission-test) | 10% | Dec 9th| 10% penalty for each day being late up to 5 days|
-| [m53 (load and find)](#ms53-submission-test) | 10% | Dec 9th| 10% penalty for each day being late up to 5 days|
-| [m54 (load, close, save)](#ms54-submission-test) | 10% | Dec 9th| 10% penalty for each day being late up to 5 days|
-| [m55 (return)](#ms55-submission-test) | 10% | Dec 9th| 10% penalty for each day being late up to 5 days|
-| [m56 (park)](#ms56-submission-test) | 10% | Dec 9th| 10% penalty for each day being late up to 5 days|
-
-> The first 4 milestones will not be marked based on the code, but their success and their timely submissions. You may modify or debug your previous code as you are going through the milestones. The only milestone that is going to scrutinized based your code will be milestone 5. If you require any feedback on your first four milestones you need to ask your professor to do so.
-
-
-> :warning: Your project will receive a mark of zero if any of the first 4 milestones are not submitted by the rejection date (Dec 14th 2022 )<br />For your project to be marked, you must submit all the 4 milestones and at least one of the 6 submissions of Milestone 5 (Rejection date for milestone 5 is also Dec 14th 2022)
-
 You can check the due date of each milestone using the ```-due``` flag in the submission command:
 ```bash
 ~profname.proflastname/submit 2??/prj/m? -due
