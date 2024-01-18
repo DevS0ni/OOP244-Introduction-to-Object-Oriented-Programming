@@ -1,0 +1,13 @@
+/*
+-----------------------------------------------------------------------------
+ Author      : Dev Soni - dasoni4@myseneca.ca
+ Student #   : 130759210
+ Section     : NAA
+ Workshop 6 - part 2
+-----------------------------------------------------------------------------
+ */
+
+
+This week's focus encompassed the intricacies of working with classes featuring resources, particularly dynamic memory. When managing resources, adherence to three essential rules becomes imperative: the implementation of a copy constructor, a copy assignment operator, and a destructor. These components facilitate effective handling of dynamic memory, mitigating the risk of memory leaks. Additionally, the module introduced the concept of resizing memory using the += operator, adding a valuable layer to our understanding of operator overloads and file handling.
+
+The comprehensive practice with operator overloads and file manipulation presented in this module served as a beneficial learning experience, reinforcing these critical topics. However, a noteworthy challenge emerged during part one concerning a memory leak, which initially perplexed me. Unbeknownst to me, the absence of the "add.txt" file impacted my program's execution, leading to misconceptions about the correctness of my solution.

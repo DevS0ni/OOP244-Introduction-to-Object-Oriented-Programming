@@ -1,0 +1,14 @@
+/*
+-----------------------------------------------------------------------------
+ Author      : Dev Soni - dasoni4@myseneca.ca
+ Student #   : 130759210
+ Section     : NAA
+ Workshop 9
+-----------------------------------------------------------------------------
+ */
+
+This week's focus involved the utilization of derived classes containing resources, specifically dynamically allocated members. The application of previously acquired knowledge in the course, spanning Classes, Inheritance, dynamic memory allocation, and file manipulation, was integral to the completion of the tasks.
+
+A notable point of consideration emerged during the coding process when it became necessary to include the "#include <fstream>" directive in the tester file to facilitate successful compilation. This adjustment has since been incorporated into the main file on GitHub for future reference.
+
+Upon executing the code, a challenge surfaced when it was overlooked that the derived class, when copied, must appropriately handle the base class to prevent unintended outcomes, such as exclusive HTML tags in the output. This realization proved beneficial in addressing a similar issue in Milestone 4, where the Car and Motorcycle classes necessitated the inheritance of all information from the Vehicle class.

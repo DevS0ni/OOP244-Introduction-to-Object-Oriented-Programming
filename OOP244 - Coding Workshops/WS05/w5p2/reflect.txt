@@ -1,0 +1,12 @@
+/*
+-----------------------------------------------------------------------------
+ Author      : Dev Soni - dasoni4@myseneca.ca
+ Student #   : 130759210
+ Section     : NAA
+ Workshop 5 - part 2
+-----------------------------------------------------------------------------
+ */
+
+Throughout this week, our focus centered on a deeper exploration of classes, their associated resources, member operators, and the integration of helper functions. The workshop provided a comprehensive review and reinforcement of operator overloading, a crucial topic that proved to be an invaluable refresher. Particularly, the clarification on when to pass references or constants to functions addressed a prior area of difficulty for me, contributing to a more robust understanding of these concepts.
+
+Upon achieving a functional version of the code, I took the opportunity to experiment and further explore the capabilities of operator overloads. The workshop instructions highlighted the possibility of calling overloads within the definitions of other overloads. Initially overlooking this approach, I eventually embraced it, recognizing its logical application. For instance, in the context of the != operator, invoking !operator==(mark) emerged as a clever and flexible utilization of C++ features.

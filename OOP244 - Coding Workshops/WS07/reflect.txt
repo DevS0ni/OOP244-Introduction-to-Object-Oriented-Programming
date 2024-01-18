@@ -1,0 +1,12 @@
+/*
+-----------------------------------------------------------------------------
+ Author      : Dev Soni - dasoni4@myseneca.ca
+ Student #   : 130759210
+ Section     : NAA
+ Workshop 7
+-----------------------------------------------------------------------------
+ */
+
+This week's focus centered on the concept of inheritance, wherein a derived class is created using a base class. The derived class inherits access to all the protected and public methods and members of the base class. Having completed milestone two before this workshop, the latter proved to be a relatively straightforward task. Taking this course as a refresher, I completed the workshop in two hours, with milestone two requiring an additional four hours on the same day.
+
+While working on milestone two, debugging and code tweaking were necessary, though these challenges did not pose significant difficulties. In milestone one, I initially employed a boolean variable to ascertain the validity of the Menu object. However, for the Parking class, I encountered complications with this approach. Given the dynamic nature of the file path, a more effective validation strategy emerged by checking if it is null.

@@ -1,0 +1,14 @@
+/*
+-----------------------------------------------------------------------------
+ Author      : Dev Soni - dasoni4@myseneca.ca
+ Student #   : 130759210
+ Section     : NAA
+ Workshop 8
+-----------------------------------------------------------------------------
+ */
+
+This week's workshop centered on the concepts of virtual functions, abstract base classes, and interfaces. As I progress through the material, I find that the overarching comprehension is becoming more intuitive, enabling me to efficiently complete the workshops. 
+
+However, I did encounter a challenge in grasping how an interface can overload insertion and extraction operators for all child classes, given the invocation of virtual functions before their definitions. It became clear that this design is effective because all other classes are children of the Shape class.
+
+The depth of possibilities afforded by object-oriented programming in C++ continues to impress me, and I am eagerly anticipating the exploration of upcoming topics. 
