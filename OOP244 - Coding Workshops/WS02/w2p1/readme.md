@@ -11,7 +11,7 @@ Upon successful completion of this workshop, you will have demonstrated the abil
 - overload functions
 - create and use references
 
-## Workshop Online Overview Session. (Tuesday Sep20th 16:15 to 17:05)
+## Workshop Online Overview Session.
 The overview session will go through the workshop, explaining the steps and answering questions you might have.
 
 The session will be online on BigBlueButton. Click on the link below 5 minutes before the session begins to join the session. 
