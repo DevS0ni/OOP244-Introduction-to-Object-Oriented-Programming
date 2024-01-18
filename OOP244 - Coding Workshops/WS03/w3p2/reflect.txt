@@ -1,0 +1,12 @@
+/*
+-----------------------------------------------------------------------------
+ Author      : Dev Soni - dasoni4@myseneca.ca
+ Student #   : 130759210
+ Section     : NAA
+ Workshop 3 - part 2
+-----------------------------------------------------------------------------
+ */
+
+This week's focus on classes, their structure, attributes (private and public member functions), overloading member functions, and working with output formatting and dynamic memory served as a valuable refresher. 
+
+However, I've encountered challenges in implementing classes and ensuring their seamless interaction, particularly when dealing with private member variables compared to public structs. The implementation of the modules NameTag and TagList required some time for me to grasp fully. While I believe the final outcome is satisfactory, I have resorted to using global variables within each module to track certain aspects like the longest word and the TagList array.

@@ -1,0 +1,12 @@
+/*
+-----------------------------------------------------------------------------
+ Author      : Dev Soni - dasoni4@myseneca.ca
+ Student #   : 130759210
+ Section     : NAA
+ Workshop 4 - part 2
+-----------------------------------------------------------------------------
+ */
+
+During this week, we delved into essential concepts such as constructors, destructors, overloading functions, and the utilization of the current object in C++ classes. While classes inherently incorporate constructors and destructors, the manual implementation of these features provides greater control over functionalities, such as dynamic memory allocation and deallocation. Overloading functions emerged as a powerful design strategy, enabling diverse manipulations of data within classes. For instance, offering various constructors facilitates the instantiation of objects with different member initializations, offering flexibility in data manipulation.
+
+The intricacies of the current object, denoted by "this," posed initial challenges. Initially perplexed by its functionality, I gradually gained comprehension through dedicated study and hands-on programming. The completion of the DIY segment and comprehension of the tester script significantly bolstered my confidence in utilizing "this" effectively. These topics collectively contribute to a nuanced understanding of C++ class implementation, fostering precision and flexibility in coding practices.

@@ -1,0 +1,15 @@
+/*
+-----------------------------------------------------------------------------
+ Author      : Dev Soni - dasoni4@myseneca.ca
+ Student #   : 130759210
+ Section     : NAA
+ Workshop 1 - part 2
+-----------------------------------------------------------------------------
+ */
+
+
+File handling in C refers to the manipulation and control of files through a program written in the C programming language. 
+
+Files are essential for storing and retrieving data persistently on a computer. Basic file handling in C involves operations such as opening, reading, writing, closing, and positioning within files. 
+
+The stdio.h library provides functions like fopen, fclose, fread, and fwrite that allow programmers to interact with files. When working with files, it is important to handle errors, check for successful file operations, and close files properly after use. Files can be of various types, including text and binary, and C provides mechanisms to handle both. Text files store human-readable data, while binary files store data in a format that is not directly human-readable. Understanding file handling basics is crucial for tasks like data storage, retrieval, and manipulation in C programs.

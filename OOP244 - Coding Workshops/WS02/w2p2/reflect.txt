@@ -1,0 +1,16 @@
+/*
+-----------------------------------------------------------------------------
+ Author      : Dev Soni - dasoni4@myseneca.ca
+ Student #   : 130759210
+ Section     : NAA
+ Workshop 2 - part 2
+-----------------------------------------------------------------------------
+ */
+
+I'm finding the dynamic memory concepts quite intriguing. It's a cool way to optimize programs by allocating just the memory needed, keeping things lean. Overloading functions is proving useful too, giving me the flexibility to handle data in different ways.
+
+This week, we dove into dynamic memory and function overloading, topics that served as a refresher for me but were much needed. I appreciate how these concepts contribute to more efficient and versatile code.
+
+The DIY portions of the week have been challenging, but they're a great learning tool. Having to figure things out on my own has definitely enhanced my problem-solving skills.
+
+The sorting surprise was a bit sneaky, I thought I was done, but then the realization hit that we had to sort by Postal Code if populations were the same. Classic unexpected twist, but it's all part of the learning process.
