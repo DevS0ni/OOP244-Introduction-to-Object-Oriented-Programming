@@ -1,0 +1,17 @@
+/*
+ ============================================================================
+ Name        : reflect.txt
+ Author      : Dev Soni - dasoni4@myseneca.ca
+ Student #   : 130759210
+ Workshop 2 - part 2
+ ============================================================================
+ */
+
+It has been a lot of work getting back into the swing of things with coding and C++. But I am really enjoying it.
+
+This week we were focusing on dynamic memory and how to allocate and free up that memory when we are done using it. We also learned about overloading functions. 
+For me this was just a refresher on those topics, but it was much needed. Dynamic memory is actually really cool. It helps keep our programs size down because 
+we are only allocating memory we need and nothing more. Overloading functions is also very useful because we can have many ways to, lets say, display data or 
+even read data like we did in this workshop. I am looking forward to the upcoming topics and challenges this course will bring me and am very glad I had less 
+issues with this weeks workshop than I did on WS01. I'm finding that the DIY portions of the week are a great learning tool because you have to just figure it out.
+

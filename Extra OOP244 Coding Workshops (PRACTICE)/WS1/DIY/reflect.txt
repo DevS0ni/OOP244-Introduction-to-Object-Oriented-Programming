@@ -1,0 +1,23 @@
+/*
+*****************************************************************************
+				      Reflection (reflect.txt)
+Full Name  : Dev Soni
+Student ID#: 130759210
+Email      : dasoni4@myseneca.ca
+*****************************************************************************
+-> Study your final solutions for each deliverable of the workshop, reread the related parts of the course notes, and make sure that you have understood the concepts covered by this workshop. This should take no less than 30 minutes of your time and the result is suggested to be at least 150 words in length.
+
+-> Create a file named reflect.txt that contains your detailed description of the topics that you have learned in completing this workshop and mention any issues that caused you difficulty.
+
+-> You may be asked to talk about your reflection (as a presentation) in class.
+*/
+
+WorkShop 1 Part 1 (LAB) :
+-------------------------
+
+For the Workshop Part 1, the concepts which concerned with the execution of the workshop part-1 were modularity throughout the program, which means, seperating a singular-complex program into the chuncks of small modules, which makes the translation units for the compiler to compile. In addition to this, I also learnt to implement and make namespaces where we can include certain lines of code for the program and implement that onto the other files as needed. Seperating the prorgram, include making modules - a single module comprises of implementation files (.cpp) and header files (.h) of its own. The workshop also helped me to understand the 'ONE-DEFINITION RULE' for the header files in C++, and to use the conditional header safe-guard statements to avoid any duplication in the header file names.
+
+WorkShop 2 Part 2 (DIY) :
+-------------------------
+
+For the workshop Part 2, the concepts which I learnt were the basics concepts of C++, dealing with the logical programs of 'if-else conditional statments'; making custom string library, for its further use in the upcoming WorkShops. With the making of such program, it also clear my knowledge of string operations on the stream of C characters and what are their operations. Moreover, implementing a header file in the implementation files in C++. However, the workshop was based on the course IPC144 (Introduction to the C Programming), so the workshop was basically a recap for the course I had studied before.

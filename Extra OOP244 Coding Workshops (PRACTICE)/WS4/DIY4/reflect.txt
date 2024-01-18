@@ -1,0 +1,14 @@
+/*
+*****************************************************************************
+                             reflect.txt
+Full Name  : Dev Soni
+Student ID#: 130759210
+Email      : dasoni4@myseneca.ca
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*****************************************************************************
+*/
+
+Through this workshop, I was able to strengthen my knowledge of default constructors, overloaded constructors and destructors. I understood how we initialize object instances using constructors and deallocate memory when the object goes out of scope using destructors. This workshop also helped me revise previously taught concepts such as dynamic memory allocation and output formatting.
+
+I faced memory leaks in this workshop while I was trying to swap objects. This was because I was assigning the object to the temporary object using the assignment operator which doesn’t account for the dynamically allocated memory.

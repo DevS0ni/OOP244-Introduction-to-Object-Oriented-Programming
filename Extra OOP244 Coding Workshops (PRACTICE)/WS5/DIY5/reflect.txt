@@ -1,0 +1,14 @@
+/*
+ ============================================================================
+ File.           : reflect.txt
+ Author      : Soni Dev Ð dasoni4@myseneca.ca
+ Student #   : 130759210
+ Workshop 5 - part 2
+ ============================================================================
+ */
+
+The key concepts involved around this workshops are member operators and helper functions play an important role in C++ classes and provide additional functionality and flexibility to the objects. Here are some key points about member operators and helper functions:
+Member operators are functions defined within a class that allow objects of that class to perform specific operations. They are invoked using the object on which they are called and can access the class's private data members. Member operators are typically implemented using member function syntax.
+
+Helper functions are non-member functions that are defined outside the class but can access the class's private data members. They are designed to assist the class by providing additional functionality or performing operations that involve multiple objects or data types.
+

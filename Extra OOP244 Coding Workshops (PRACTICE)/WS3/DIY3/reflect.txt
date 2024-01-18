@@ -1,0 +1,23 @@
+/*
+*****************************************************************************
+	           WorkShop 3 - Reflection (reflect.txt)
+Full Name  : Dev Soni
+Student ID#: 130759210
+Email      : dasoni4@myseneca.ca
+*****************************************************************************
+-> Study your final solutions for each deliverable of the workshop, reread the related parts of the course notes, and make sure that you have understood the concepts covered by this workshop. This should take no less than 30 minutes of your time and the result is suggested to be at least 150 words in length.
+
+-> Create a file named reflect.txt that contains your detailed description of the topics that you have learned in completing this workshop and mention any issues that caused you difficulty.
+
+-> You may be asked to talk about your reflection (as a presentation) in class.
+*/
+
+WorkShop 1 Part 1 (LAB) :
+-------------------------
+
+For the Workshop Part 1, the concepts which concerned with the execution of the workshop part-1 were about Member Functions and Privacy, Encapsulation of the data; Dynamic Memory Allocation of the objects and of the member variables of the class. The thing which I learnt the most was how class in C++, is different as compared to the structures. In addition to this, the class is regulated by access modifiers: private(default for member variables), public, and protected, this ensures encapsulation of the program and data. Implementation of member functions to make a modular program.
+
+WorkShop 2 Part 2 (DIY) :
+-------------------------
+
+For the workshop Part 2, the concepts which I learnt were the same what I used to do in the workshop 1. The only additional section in this workshop was the additional Dynamic Allocation check, at the end of the program.
