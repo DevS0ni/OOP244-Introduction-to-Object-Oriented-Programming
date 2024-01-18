@@ -7,7 +7,6 @@
 -----------------------------------------------------------------------------
  */
 
-This week's workshop delved into the intricacies of function and class templates, 
-with a specific focus on implementing a search template function within the provided class template, Collection. Remarkably, I completed this workshop at an accelerated pace compared to previous ones. Although I anticipated a more challenging experience, I recognize that greater complexities may arise in subsequent semesters.
+This week's workshop delved into the intricacies of function and class templates, with a specific focus on implementing a search template function within the provided class template, Collection. Remarkably, I completed this workshop at an accelerated pace compared to previous ones. Although I anticipated a more challenging experience, I recognize that greater complexities may arise in subsequent semesters.
 
 Templates, as a topic, introduce a distinct syntax layered upon our existing knowledge base, which can be initially confusing. However, having previously taken this course, I approached the subject with confidence. In retrospect, I acknowledge that templates were initially perplexing during my first encounter with this class. Nevertheless, with increased exposure and understanding, I now appreciate the remarkable power they bestow upon C++ programming.
