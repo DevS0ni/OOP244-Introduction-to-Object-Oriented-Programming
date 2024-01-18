@@ -1,0 +1,14 @@
+In line number 7 of your output:
+The output should be:
+*abc
+ ^
+But your output is: 
+*test.txt*
+ ^
+
+Unmatched character details:
+The character in column 2 is supposed to be:
+  [a] ASCII code(97)
+but you printed
+  [t] ASCII code(116)
+

@@ -1,0 +1,37 @@
+/*
+*****************************************************************************
+                              reflect.txt
+Full Name  : Dev Soni
+Student ID#: 130759210
+Email      : dasoni4@myseneca.ca
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*****************************************************************************
+*/
+
+In this workshop, I learnt how to code function templates and implement calls to function templates. 
+
+Basically I implemented two search() and listArrayElements functions in this workshop which helped us to find an element in an array of a collection that was given to us earlier. However, in order to implement these find functions, we need an object of any collection type. A collection type could be a student, an employee or a car. We would use this object to store the element that we found. Also, we need an Array which contains values/keys that we use to find elements in the object. Finally, we need the array where we will find the elements in.
+
+The find function is designed to be used with any type of collection because we have used function templates in the function definition.
+
+The main problem that I faced in this workshop is that I was getting some errors in the 3 argument find() template function. This was because the order of arguments that I specified in the function call was not correct.
+
+Function "search" requirements:
+The "search" function is a template function that allows you to search for a specific value in an array of objects and store the matching objects in a Collection. 
+This function takes four arguments:
+"coll": A reference to a Collection object, which will store the matching objects.
+"arr": A pointer to an array of objects, where we want to search for the key value.
+"numElem": The number of elements in the array.
+"find": The key value we want to search for in the array.
+The function goes through each element in the array and checks if it matches the key value using the "==" operator. 
+-> If a match is found, the object is added to the Collection. Finally, the function returns true if at least one match is found and false if no matches are found.
+
+Function "listArrayElements" requirements:
+The "listArrayElements" function is a template function that displays the elements of an array along with their corresponding indixes. 
+This function takes three arguments:
+"title": A C-style string storing the title of the list. It is displayed before the elements.
+"arr": A pointer to an array of elements that we want to display.
+"size": The number of elements in the array.
+The function starts by displaying the title to provide context for the list then, it iterates through each element in the array, displaying the index of the element (starting from 1) followed by a colon and the element itself. Each element is displayed on a new line. 
+-> This function is helpful for visually inspecting the contents of an array.

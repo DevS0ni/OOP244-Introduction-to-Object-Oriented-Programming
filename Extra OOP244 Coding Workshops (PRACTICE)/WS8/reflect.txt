@@ -1,0 +1,15 @@
+/*
+*****************************************************************************
+                              reflect.txt
+Full Name  : Dev Soni
+Student ID#: 130759210
+Email      : dasoni4@myseneca.ca
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*****************************************************************************
+*/
+
+In this workshop, I learnt about defining a pure virtual function, coding an abstract base class, implementing the behaviour declared in a pure virtual function and explaining the difference between an abstract base class and a concrete class. This program involved multiple modules and multiple files that I had to link together to get the code to work. It was also a good revision of the previous concepts.
+
+The main error that I faced was that I was declaring the function as a part of the class and was declaring it as virtual.In order to solve this, I had to declare the function outside of the class and not as a member function of the class. Also, I wasn’t supposed to make it virtual.
+

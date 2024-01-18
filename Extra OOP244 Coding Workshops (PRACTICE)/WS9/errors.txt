@@ -1,0 +1,23 @@
+Text.cpp: In member function ‘void sdds::Text::read()’:
+Text.cpp:61:33: error: variable ‘std::ifstream file’ has initializer but incomplete type
+     std::ifstream file(m_content);
+                                 ^
+Text.cpp:69:32: error: too few arguments to function ‘unsigned int sdds::getFileLength(std::istream&)’
+     int length = getFileLength();
+                                ^
+In file included from Text.cpp:20:0:
+Text.h:41:14: note: declared here
+     unsigned getFileLength(std::istream& is);
+              ^
+Text.cpp: In function ‘std::istream& sdds::operator>>(std::istream&, sdds::Text&)’:
+Text.cpp:91:25: error: no matching function for call to ‘sdds::Text::read(std::istream&)’
+         return T.read(is);
+                         ^
+Text.cpp:91:25: note: candidate is:
+Text.cpp:60:10: note: void sdds::Text::read()
+     void Text::read() {
+          ^
+Text.cpp:60:10: note:   candidate expects 0 arguments, 1 provided
+Text.cpp:92:5: warning: control reaches end of non-void function [-Wreturn-type]
+     }
+     ^
