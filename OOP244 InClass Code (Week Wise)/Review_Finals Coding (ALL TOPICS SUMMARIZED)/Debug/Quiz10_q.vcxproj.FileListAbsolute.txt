@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\OOP244_Winter2021\Quiz\Quiz10\Quiz10_q\Debug\Quiz10_q.exe
+C:\Users\User\Desktop\OOP244_Winter2021\Quiz\Quiz10\Quiz10_q\Debug\Quiz10_q.pdb
+C:\Users\User\Desktop\OOP244_Winter2021\Lecture\Lecture11_week12\Review_final\Debug\Quiz10_q.exe
+C:\Users\User\Desktop\OOP244_Winter2021\Lecture\Lecture11_week12\Review_final\Debug\Quiz10_q.pdb
+C:\Users\User\Desktop\OOP244_Winter2021\Lecture\Lecture12_week13\Review_final\Debug\Quiz10_q.exe
+C:\Users\User\Desktop\OOP244_Winter2021\Lecture\Lecture12_week13\Review_final\Debug\Quiz10_q.pdb
+C:\A_Seneca_Teaching\OOP244_BTP200\OOP244_Winter2021_full course\Lecture\Lecture12_week13\Review_final\Debug\Quiz10_q.exe
